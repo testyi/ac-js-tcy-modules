@@ -414,7 +414,7 @@ ret:
 - 描述:  当前索引
 
 ###**示例代码**
-~~~
+~~~ 
 // 创建实例, 并保存到一个变量上
 var slidergroup1 = sliderGroup({
     id: 'slidergroup1',
