@@ -1,6 +1,6 @@
 #模块文档
 
-[Vscroll-banner](#user-content-vscroll-banner "竖直滚动banner") [formVerify](#user-content-formverify "表单验证") [scrollToBottom](#user-content-scrolltobottom "滑动到底部事件") [loadFile](#user-content-loadfile "异步加载文件") [pay](#user-content-pay "支付") [sliderGroup](#user-content-slidergroup "div窗口组") [IScrollSimple](#user-content-iscrollsimple "iscroll窗口组") [echo-taichiyi](#user-content-echo-taichiyi "懒加载") [pullToRefreshA](#user-content-pulltorefresha "下拉刷新") 
+[Vscroll-banner](#vscroll-banner "竖直滚动banner") [formVerify](#formverify "表单验证") [scrollToBottom](#scrolltobottom "滑动到底部事件") [loadFile](#loadfile "异步加载文件") [pay](#pay "支付") [sliderGroup](#slidergroup "div窗口组") [IScrollSimple](#iscrollsimple "iscroll窗口组") [echo-taichiyi](#echo-taichiyi "懒加载") [pullToRefreshA](#pulltorefresha "下拉刷新") 
 
 
 ## Vscroll-banner
