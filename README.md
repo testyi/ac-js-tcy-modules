@@ -807,5 +807,5 @@ var pullRefresh = new pullToRefreshA({
     // "loadingImage": "../img/pull_refresh_2.png", //加载中的图片
     "callback": loadingCallback //刷新回调
 });
-
+ 
 ~~~
