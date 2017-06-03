@@ -13,28 +13,28 @@ VscrollBanner({params});
 ```
 
 ### selector
- - 类型: 字符串
- - 默认值: 无
- - 描述: 选择器, 如: '#VscrollBanner1'
+- 类型: 字符串
+- 默认值: 无
+- 描述: 选择器, 如: '#VscrollBanner1'
 
 ### params
 speed
 
- - 类型: 数字
- - 默认值: 300 (单位:ms)
- - 描述: 滚动速度
+- 类型: 数字
+- 默认值: 300 (单位:ms)
+- 描述: 滚动速度
 
 interval
 
- - 类型: 字符串
- - 默认值: 3000 (单位:ms)
- - 描述: 滚动间隔时间
+- 类型: 字符串
+- 默认值: 3000 (单位:ms)
+- 描述: 滚动间隔时间
 
 type
 
- - 类型: 字符串
- - 默认值: single
- - 描述: 单行显示双行显示, double(双行), single(单行) 
+- 类型: 字符串
+- 默认值: single
+- 描述: 单行显示双行显示, double(双行), single(单行) 
 
 
 ## 实例
@@ -54,9 +54,7 @@ type
 
 如果想验证某个表单元素请在该元素上添加Class: js_form-verify
 
-```
-scrollToBottom(callback(ret, err))
-```
+form_verify(function(ret) {});
 
 ### 验证规则
 
@@ -64,8 +62,8 @@ scrollToBottom(callback(ret, err))
 
 #### required
 
- - 说明: required = 0 时, 表示此元素为选填
- - 默认值: 无
+- 说明: required = 0 时, 表示此元素为选填
+- 默认值: 无
 
 例子
 
@@ -75,8 +73,8 @@ scrollToBottom(callback(ret, err))
 
 #### tips
 
- - 说明: 验证错误时的提示
- - 默认值: 请填写所有必填项
+- 说明: 验证错误时的提示
+- 默认值: 请填写所有必填项
 
 例子
 
@@ -86,8 +84,8 @@ scrollToBottom(callback(ret, err))
 
 #### regular
 
- - 说明: 验证规则为正则表达式
- - 默认值: 无
+- 说明: 验证规则为正则表达式
+- 默认值: 无
 
 例子
 
@@ -97,8 +95,8 @@ scrollToBottom(callback(ret, err))
 
 #### eqlength
 
- - 说明: 该元素的值的长度得等于设定的值
- - 默认值: 无
+- 说明: 该元素的值的长度得等于设定的值
+- 默认值: 无
 
 例子
 
@@ -108,8 +106,8 @@ scrollToBottom(callback(ret, err))
 
 #### maxlength
 
- - 说明: 该元素的值的长度得小于设定的值
- - 默认值: 无
+- 说明: 该元素的值的长度得小于设定的值
+- 默认值: 无
 
 例子
 
@@ -119,8 +117,8 @@ scrollToBottom(callback(ret, err))
 
 #### minlength
 
- - 说明: 该元素的值的长度得大于设定的值
- - 默认值: 无
+- 说明: 该元素的值的长度得大于设定的值
+- 默认值: 无
 
 例子
 
@@ -132,8 +130,8 @@ scrollToBottom(callback(ret, err))
 
 #### eqname
 
- - 说明: 两个元素的值是否相等, eqname的值为要将相比元素的name
- - 默认值: 无
+- 说明: 两个元素的值是否相等, eqname的值为要将相比元素的name
+- 默认值: 无
 
 例子
 
