@@ -2,6 +2,7 @@
 
 [Vscroll-banner](#vscroll-banner "竖直滚动banner") [formVerify](#formverify "表单验证") [scrollToBottom](#scrolltobottom "滑动到底部事件") [loadFile](#loadfile "异步加载文件") [pay](#pay "支付") [sliderGroup](#slidergroup "div窗口组") [IScrollSimple](#iscrollsimple "iscroll窗口组") [echo-taichiyi](#echo-taichiyi "懒加载") [pullToRefreshA](#pulltorefresha "下拉刷新") 
 
+test
 
 ## Vscroll-banner
 
